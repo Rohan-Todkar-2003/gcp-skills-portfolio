@@ -1,299 +1,398 @@
+# 🚀 Rohan Todkar - Google Cloud Skills Portfolio
+
 <div align="center">
 
-# 🚀 Rohan Todkar
-## Google Cloud Platform Skills & Certifications Portfolio
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=300&section=header&text=Google%20Cloud%20Expert&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Machine%20Learning%20•%20Infrastructure%20•%20DevOps&descAlignY=51&descAlign=62)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Google+Cloud+Professional;AI%2FML+Specialist;Infrastructure+Expert;50%2B+Skill+Badges+Earned;Continuous+Learner" alt="Typing SVG" />
+[![Google Cloud Skills](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1a1a1a)](https://www.cloudskillsboost.google/public_profiles/30dca49f-92b8-41d1-8a0e-ccdaacb4eb68)
+[![Profile Views](https://komarev.com/ghpvc/?username=rohantodkar&color=4285f4&style=for-the-badge&label=Profile+Views)](https://github.com/Rohan-Todkar-2003)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2028%2C%202025-brightgreen?style=for-the-badge&logo=calendar)](https://github.com/Rohan-Todkar-2003/gcp-skills-portfolio)
 
-<br>
-
-[![Google Cloud Skills](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/30dca49f-92b8-41d1-8a0e-ccdaacb4eb68)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohans-portfolio-opal.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/rohantodkar0705)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github)](https://github.com/Rohan-Todkar-2003)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rohantodkar&color=4285f4&style=for-the-badge&label=PORTFOLIO+VIEWS)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🎯 Portfolio Highlights
+## 🎯 Professional Summary
 
 <table>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/trophy.png" width="50"/>
-<br><b>50+ Badges</b>
-<br>Skill Certifications
+<td width="50%" valign="top">
+
+### 🏆 **Achievements Overview**
+- **50+ Google Cloud Badges** 🥇
+- **AI/ML Specialization** 🤖
+- **Infrastructure Expert** 🏗️
+- **Continuous Learner** 📚
+
 </td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50"/>
-<br><b>AI/ML Expert</b>
-<br>Generative AI Focus
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/cloud.png" width="50"/>
-<br><b>Cloud Native</b>
-<br>Infrastructure Pro
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/calendar--v1.png" width="50"/>
-<br><b>Latest: Jul 2025</b>
-<br>Always Updated
+<td width="50%" valign="top">
+
+### 📈 **Latest Milestones**
+- **🔥 Recent:** Build Real World AI Applications (Jul 2025)
+- **⚡ Focus:** Generative AI & MLOps
+- **🎯 Next:** Advanced GKE & Cloud Security
+- **🌟 Goal:** Google Cloud Professional Certification
+
 </td>
 </tr>
 </table>
 
-> 🌟 **Showcasing my journey through Google Cloud Platform learning and professional development**
+<div align="center">
 
-**🏆 Total Badges Earned: 50+**  
-**📅 Latest Achievement: Build Real World AI Applications with Gemini and Imagen (Jul 22, 2025)**  
-**🔗 Public Profile: [View on Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/30dca49f-92b8-41d1-8a0e-ccdaacb4eb68)**
+**📊 Skills Distribution Chart**
+
+```
+🤖 AI & Machine Learning    ████████████████████ 35%
+🏗️ Infrastructure & DevOps  ████████████████     28% 
+💾 Data & Analytics         ██████████           18%
+📱 Application Development  ████████             12%
+🗂️ Google Workspace        ████                  7%
+```
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🏅 Google Cloud Skills Badges Collection
-
-*Click on any badge to view detailed information*
-
-</div>
-
-### 🤖 AI & Machine Learning Expertise
-<div align="center">
-
-| **Badge** | **Achievement** | **Date Earned** | **Skills Mastered** |
-|:---:|:---|:---:|:---|
-| <img src="https://cdn.qwiklabs.com/5UuW45JTKhDo4n2xOi1SFDqHUP4YVjkJ%2F85m6DW8mWw%3D" width="120" alt="Build Real World AI Apps" title="Build Real World AI Applications with Gemini and Imagen"/> | **Build Real World AI Applications with Gemini and Imagen** | `Jul 22, 2025` | Image recognition, NLP, image generation, Vertex AI deployment |
-| <img src="https://cdn.qwiklabs.com/QGWKIoHfWZhPpYKN1gVKk%2F9qrlMTbD1yYA7%2BfEk6jOI%3D" width="120" alt="Prompt Design" title="Prompt Design in Vertex AI"/> | **Prompt Design in Vertex AI** | `Jul 21, 2025` | Prompt engineering, multimodal techniques, Gemini optimization |
-| <img src="https://cdn.qwiklabs.com/fWc4%2FVLM5%2F6wMvfNs96cw7rRcUwwLzWt%2FQ0bttFjQv8%3D" width="120" alt="MLOps" title="Machine Learning Operations for Generative AI"/> | **MLOps for Generative AI** | `Jul 19, 2025` | MLOps processes, model deployment, Vertex AI management |
-| <img src="https://cdn.qwiklabs.com/p1tA%2ByRZ%2B%2BF3UdGCp8MJDSsYCF%2BLKJOm9%2BmJvwgRpw%3D" width="120" alt="Responsible AI" title="Responsible AI for Developers"/> | **Responsible AI for Developers** | `Completed` | Ethical AI, governance, risk mitigation, best practices |
-| <img src="https://cdn.qwiklabs.com/W%2BwKGNGE4Sb8jJcKm4k8MVQ%2FSfAWFq1k%2BVvL%2BN7s%2BdI%3D" width="120" alt="Model Evaluation" title="Evaluating AI Systems Quality"/> | **AI Systems Quality Evaluation** | `Completed` | Model metrics, optimization, continuous monitoring |
-
-</div>
-
-### 🏗️ Infrastructure & DevOps Mastery
-<div align="center">
-
-| **Badge** | **Achievement** | **Date Earned** | **Skills Mastered** |
-|:---:|:---|:---:|:---|
-| <img src="https://cdn.qwiklabs.com/Rh9Jt%2B9EhLcYwZB%2BH4%2BrqDY9ZCVw3YOZ4%2BJ8Gx9F2Y%3D" width="120" alt="Terraform" title="Build Infrastructure with Terraform"/> | **Infrastructure with Terraform** | `Completed` | IaC, state management, modular configuration |
-| <img src="https://cdn.qwiklabs.com/k%2Fv6g1SWQ%2F4GpI%2B9QKc7aDY9KDVw3YOZ4%2BJ8Gx9F2Y%3D" width="120" alt="Kubernetes" title="Deploy Kubernetes Applications"/> | **Deploy Kubernetes Applications** | `Completed` | GKE, Docker, kubectl, continuous delivery |
-| <img src="https://cdn.qwiklabs.com/5UuW45JT%2F85m6DW8mWw%3D" width="120" alt="Load Balancing" title="Cloud Load Balancing"/> | **Cloud Load Balancing** | `Completed` | VM deployment, network/application load balancers |
-| <img src="https://cdn.qwiklabs.com/QGWKIoHf%2F9qrlMTbD1yYA7%2BfEk6jOI%3D" width="120" alt="Compute" title="Google Cloud Compute Basics"/> | **Google Cloud Compute** | `Completed` | VMs, persistent disks, Compute Engine |
-| <img src="https://cdn.qwiklabs.com/fWc4%2FVM%2F6wMvfNs96cw7rRcUwwLzWt%2FQ0bttFjQv8%3D" width="120" alt="Monitoring" title="Monitoring in Google Cloud"/> | **Cloud Monitoring** | `Completed` | Performance tracking, alerting, observability |
-
-</div>
-
-### 💾 Data & Analytics Excellence
-<div align="center">
-
-| **Badge** | **Achievement** | **Date Earned** | **Skills Mastered** |
-|:---:|:---|:---:|:---|
-| <img src="https://cdn.qwiklabs.com/p1tA%2ByRZ%2F%2F3UdGCp8MJDSsYCF%2BLKJOm9%2BmJvwgRpw%3D" width="120" alt="BigQuery" title="Predictive Data Analysis in BigQuery"/> | **BigQuery Predictive Analysis** | `Completed` | Sports data science, BigQuery ML, SQL analytics |
-| <img src="https://cdn.qwiklabs.com/W%2BwKGNGE4Sb8jJcKm4k8MVQ%2FSfAWFq1k%2BVvL%2BN7s%2BdI%3D" width="120" alt="Looker" title="Build LookML Objects in Looker"/> | **LookML Objects in Looker** | `Completed` | Dimensions, measures, Explores, business intelligence |
-
-</div>
-
-### 📱 Application Development Skills
-<div align="center">
-
-| **Badge** | **Achievement** | **Date Earned** | **Skills Mastered** |
-|:---:|:---|:---:|:---|
-| <img src="https://cdn.qwiklabs.com/Rh9Jt%2B9E%2F4GpI%2B9QKc7aDY9KDVw3YOZ4%2BJ8Gx9F2Y%3D" width="120" alt="App Dev" title="App Dev Environment Setup"/> | **App Dev Environment Setup** | `Completed` | Cloud Storage, IAM, Cloud Functions, Pub/Sub |
-| <img src="https://cdn.qwiklabs.com/k%2Fv6g1SWQ%2BH4%2BrqDY9ZCVw3YOZ4%2BJ8Gx9F2Y%3D" width="120" alt="Dialogflow" title="Conversational AI with Dialogflow CX"/> | **Dialogflow CX Development** | `Completed` | Conversational AI, intent routing, generative features |
-
-</div>
-
-### 🗂️ Google Workspace Proficiency
-<div align="center">
-
-| **Badge** | **Achievement** | **Date Earned** | **Skills Mastered** |
-|:---:|:---|:---:|:---|
-| <img src="https://cdn.qwiklabs.com/5UuW45JTKhDo4n2x%2F85m6DW8mWw%3D" width="120" alt="Workspace" title="Google Workspace Tools"/> | **Google Workspace Tools** | `Completed` | Gmail, Calendar, Meet, Drive, Sheets collaboration |
-| <img src="https://cdn.qwiklabs.com/QGWKIoHfWZhP%2F9qrlMTbD1yYA7%2BfEk6jOI%3D" width="120" alt="Sheets" title="Functions and Charts in Sheets"/> | **Google Sheets Advanced** | `Completed` | Functions, formulas, data visualization, analytics |
-
-</div>
-
----
-
-<div align="center">
-
-## 🎮 Challenge Labs & Premium Credentials
+## 🏅 Interactive Skills Showcase
 
 <details>
-<summary><b>🏆 Click to expand Challenge Achievements</b></summary>
+<summary><b>🤖 AI & Machine Learning Expertise</b> <i>(Click to expand)</i></summary>
 
-<br>
+<div align="center">
+
+### 🧠 **Artificial Intelligence & Machine Learning**
 
 <table>
 <tr>
-<td align="center">
-<img src="https://cdn.qwiklabs.com/fWc4%2FVLM5%2F6wMvfNs96cw7rRcUwwLzWt%2FQ0bttFjQv8%3D" width="100"/>
-<br><b>Base Camp</b>
-<br>Google Cloud Fundamentals
+<td align="center" width="200">
+<img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="80" height="80" alt="AI Badge"/>
+<br><b>Build Real World AI Apps</b><br>
+<code>Gemini & Imagen</code><br>
+<img src="https://img.shields.io/badge/Earned-Jul%2022%2C%202025-success?style=flat-square"/>
 </td>
-<td align="center">
-<img src="https://cdn.qwiklabs.com/p1tA%2ByRZ%2B%2BF3UdGCp8MJDSsYCF%2BLKJOm9%2BmJvwgRpw%3D" width="100"/>
-<br><b>Flutter Challenge</b>
-<br>App Development
+<td align="center" width="200">
+<img src="https://developers.google.com/static/ml/images/vertex-ai-logo.png" width="80" height="80" alt="Prompt Design"/>
+<br><b>Prompt Design</b><br>
+<code>Vertex AI</code><br>
+<img src="https://img.shields.io/badge/Earned-Jul%2021%2C%202025-success?style=flat-square"/>
 </td>
-<td align="center">
-<img src="https://cdn.qwiklabs.com/W%2BwKGNGE4Sb8jJcKm4k8MVQ%2FSfAWFq1k%2BVvL%2BN7s%2BdI%3D" width="100"/>
-<br><b>Terraform Challenge</b>
-<br>Infrastructure Automation
+<td align="center" width="200">
+<img src="https://cloud.google.com/images/products/ai-platform/ai-platform-icon.svg" width="80" height="80" alt="MLOps"/>
+<br><b>MLOps for Gen AI</b><br>
+<code>Vertex AI Platform</code><br>
+<img src="https://img.shields.io/badge/Earned-Jul%2019%2C%202025-success?style=flat-square"/>
 </td>
-<td align="center">
-<img src="https://cdn.qwiklabs.com/Rh9Jt%2B9EhLcYwZB%2BH4%2BrqDY9ZCVw3YOZ4%2BJ8Gx9F2Y%3D" width="100"/>
-<br><b>Multi-Cloud Skills</b>
-<br>Cross-Platform Development
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb8920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef6/cloud/images/cloud-logo.svg" width="80" height="80" alt="Responsible AI"/>
+<br><b>Responsible AI</b><br>
+<code>Development</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+<td align="center" width="200">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb8920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef6/cloud/images/cloud-logo.svg" width="80" height="80" alt="Model Evaluation"/>
+<br><b>AI Model Evaluation</b><br>
+<code>Quality Systems</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+<td align="center" width="200">
+<img src="https://developers.google.com/static/ml/images/vertex-ai-logo.png" width="80" height="80" alt="Gen AI Leader"/>
+<br><b>Gen AI Leader Path</b><br>
+<code>Organizational Strategy</code><br>
+<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square"/>
 </td>
 </tr>
 </table>
 
+**🎯 Key Skills:** `Gemini Models` • `Imagen` • `Prompt Engineering` • `MLOps` • `Vertex AI` • `Responsible AI`
+
+</div>
 </details>
 
+<details>
+<summary><b>🏗️ Infrastructure & DevOps Mastery</b> <i>(Click to expand)</i></summary>
+
+<div align="center">
+
+### ⚡ **Infrastructure & DevOps**
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://www.terraform.io/img/logo-hashicorp.svg" width="80" height="80" alt="Terraform"/>
+<br><b>Terraform Infrastructure</b><br>
+<code>Google Cloud</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+<td align="center" width="200">
+<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="80" height="80" alt="Kubernetes"/>
+<br><b>Kubernetes Apps</b><br>
+<code>GKE Deployment</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+<td align="center" width="200">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb8920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef6/cloud/images/cloud-logo.svg" width="80" height="80" alt="Load Balancing"/>
+<br><b>Cloud Load Balancing</b><br>
+<code>Compute Engine</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb8920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef6/cloud/images/cloud-logo.svg" width="80" height="80" alt="Compute"/>
+<br><b>Cloud Compute Basics</b><br>
+<code>VM Management</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+<td align="center" width="200">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb8920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef6/cloud/images/cloud-logo.svg" width="80" height="80" alt="Monitoring"/>
+<br><b>Cloud Monitoring</b><br>
+<code>Performance Tracking</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+<td align="center" width="200">
+<img src="https://www.terraform.io/img/logo-hashicorp.svg" width="80" height="80" alt="Terraform Challenge"/>
+<br><b>Terraform Challenge</b><br>
+<code>Automation</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+**🎯 Key Skills:** `Terraform` • `Kubernetes` • `Docker` • `GKE` • `Load Balancing` • `Infrastructure as Code`
+
+</div>
+</details>
+
+<details>
+<summary><b>💾 Data & Analytics Excellence</b> <i>(Click to expand)</i></summary>
+
+<div align="center">
+
+### 📊 **Data & Analytics**
+
+<table>
+<tr>
+<td align="center" width="300">
+<img src="https://www.gstatic.com/bricks/image/0dfa6e5bf59a06c4973bf1b5bb951e93cd8c9cf64b88b1a6b99bfff7b8e45c1a.svg" width="80" height="80" alt="BigQuery"/>
+<br><b>BigQuery Predictive Analysis</b><br>
+<code>Sports Data Science & ML</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+<td align="center" width="300">
+<img src="https://looker.com/assets/img/looker-logo.svg" width="80" height="80" alt="Looker"/>
+<br><b>Looker LookML Objects</b><br>
+<code>Business Intelligence</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+**🎯 Key Skills:** `BigQuery` • `SQL Analytics` • `BigQuery ML` • `Looker` • `LookML` • `Data Visualization`
+
+</div>
+</details>
+
+<details>
+<summary><b>📱 Application Development Skills</b> <i>(Click to expand)</i></summary>
+
+<div align="center">
+
+### 🖥️ **Application Development**
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb8920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef6/cloud/images/cloud-logo.svg" width="80" height="80" alt="App Dev"/>
+<br><b>App Dev Environment</b><br>
+<code>Google Cloud</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+<td align="center" width="200">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb8920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef6/cloud/images/cloud-logo.svg" width="80" height="80" alt="Dialogflow"/>
+<br><b>Dialogflow CX</b><br>
+<code>Conversational AI</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+<td align="center" width="200">
+<img src="https://storage.googleapis.com/flutter-io/flutter-mark-square-100.png" width="80" height="80" alt="Flutter"/>
+<br><b>Flutter Development</b><br>
+<code>Build Apps Challenge</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+**🎯 Key Skills:** `Cloud Functions` • `Pub/Sub` • `Dialogflow CX` • `Flutter` • `Cloud Storage` • `IAM`
+
+</div>
+</details>
+
+<details>
+<summary><b>🗂️ Google Workspace Proficiency</b> <i>(Click to expand)</i></summary>
+
+<div align="center">
+
+### 🏢 **Google Workspace**
+
+<table>
+<tr>
+<td align="center" width="300">
+<img src="https://fonts.gstatic.com/s/i/productlogos/googleg/v6/24px.svg" width="80" height="80" alt="Workspace"/>
+<br><b>Google Workspace Tools</b><br>
+<code>Collaboration Platform</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+<td align="center" width="300">
+<img src="https://fonts.gstatic.com/s/i/productlogos/sheets/v4/24px.svg" width="80" height="80" alt="Sheets"/>
+<br><b>Google Sheets Advanced</b><br>
+<code>Functions & Charts</code><br>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+**🎯 Key Skills:** `Gmail` • `Calendar` • `Meet` • `Drive` • `Sheets` • `AppSheet` • `Collaboration`
+
+</div>
+</details>
+
+---
+
+## 🎮 Challenge Labs & Gaming
+
+<div align="center">
+
+### 🏆 **Challenge Completions**
+
+| 🏕️ Base Camp | 🎯 Multi-Cloud Skills | 🎮 Trivia Master | 🏗️ Build & Deploy |
+|:---:|:---:|:---:|:---:|
+| ![Base Camp](https://img.shields.io/badge/Base%20Camp-Completed-28a745?style=for-the-badge&logo=google-cloud) | ![Multi Cloud](https://img.shields.io/badge/Multi%20Cloud-Completed-17a2b8?style=for-the-badge&logo=google-cloud) | ![Trivia](https://img.shields.io/badge/Aug%20Trivia-4%2F4%20Weeks-ffc107?style=for-the-badge&logo=google-cloud) | ![Build](https://img.shields.io/badge/Build%20%26%20Deploy-Completed-6f42c1?style=for-the-badge&logo=google-cloud) |
+
+### 🎯 **August 2025 Trivia Streak**
+![Week 1](https://img.shields.io/badge/Week%201-✅-success?style=flat-square) ![Week 2](https://img.shields.io/badge/Week%202-✅-success?style=flat-square) ![Week 3](https://img.shields.io/badge/Week%203-✅-success?style=flat-square) ![Week 4](https://img.shields.io/badge/Week%204-✅-success?style=flat-square)
+
 </div>
 
 ---
 
+## 📈 Learning Journey & Analytics
+
 <div align="center">
 
-## 🎯 Skills Distribution & Analytics
+### 🚀 **Progress Timeline**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohan-Todkar-2003&show_icons=true&theme=radical&count_private=true&bg_color=0d1117&title_color=4285f4&icon_color=4285f4&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Todkar-2003&theme=radical&background=0d1117&border=30363d&stroke=4285f4&ring=4285f4&fire=ff6b6b&currStreakLabel=4285f4" alt="GitHub Streak" width="48%"/>
-
-<br><br>
-
-### 💡 Technology Expertise Radar
+```mermaid
+gantt
+    title Google Cloud Learning Journey
+    dateFormat  YYYY-MM-DD
+    section AI & ML
+    Generative AI Focus    :done, ai1, 2025-07-01, 2025-07-31
+    MLOps Implementation   :done, ai2, 2025-07-15, 2025-07-31
+    Vertex AI Mastery     :active, ai3, 2025-07-20, 2025-08-30
+    
+    section Infrastructure
+    Terraform Basics      :done, inf1, 2025-06-01, 2025-06-30
+    Kubernetes Advanced   :done, inf2, 2025-06-15, 2025-07-15
+    Cloud Architecture    :active, inf3, 2025-08-01, 2025-09-15
+    
+    section Certifications
+    Professional Prep     :2025-09-01, 2025-10-15
+    Certification Exam    :2025-10-16, 2025-10-16
 ```
-🤖 AI & Machine Learning    ████████████████████ 95% (Advanced)
-🏗️ Infrastructure & DevOps  ████████████████     85% (Expert)
-💾 Data & Analytics         ██████████████       75% (Proficient)  
-📱 Application Development  ████████████         65% (Intermediate)
-🗂️ Google Workspace        ██████████           55% (Competent)
-```
+
+### 💪 **Skills Heatmap**
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h4>🔥 Advanced</h4>
+<img src="https://img.shields.io/badge/Google%20Cloud%20Platform-Advanced-dc3545?style=for-the-badge&logo=google-cloud"/><br>
+<img src="https://img.shields.io/badge/Vertex%20AI-Advanced-dc3545?style=for-the-badge&logo=google-cloud"/><br>
+<img src="https://img.shields.io/badge/SQL-Advanced-dc3545?style=for-the-badge&logo=mysql"/>
+</td>
+<td width="33%" align="center">
+<h4>⚡ Intermediate</h4>
+<img src="https://img.shields.io/badge/Terraform-Intermediate-ffc107?style=for-the-badge&logo=terraform"/><br>
+<img src="https://img.shields.io/badge/Kubernetes-Intermediate-ffc107?style=for-the-badge&logo=kubernetes"/><br>
+<img src="https://img.shields.io/badge/Python-Intermediate-ffc107?style=for-the-badge&logo=python"/>
+</td>
+<td width="33%" align="center">
+<h4>🌱 Learning</h4>
+<img src="https://img.shields.io/badge/Flutter-Learning-28a745?style=for-the-badge&logo=flutter"/><br>
+<img src="https://img.shields.io/badge/Cloud%20Security-Learning-28a745?style=for-the-badge&logo=google-cloud"/><br>
+<img src="https://img.shields.io/badge/Anthos-Learning-28a745?style=for-the-badge&logo=google-cloud"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<div align="center">
+## 🎯 Current Objectives & Goals
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 **2025 Goals**
+- [ ] **Google Cloud Professional Certification**
+- [ ] **Advanced Kubernetes Certification**
+- [x] **50+ Skill Badges** ✅
+- [ ] **Contribute to Open Source GCP Tools**
+- [ ] **Speak at Cloud Conference**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 **Currently Learning**
+- **Advanced GKE Management**
+- **Cloud Security & Compliance**
+- **Multi-Cloud Architecture**
+- **Site Reliability Engineering**
+- **Cloud Cost Optimization**
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Technical Arsenal
 
-<details>
-<summary><b>🚀 Click to view my complete tech stack</b></summary>
-
-<br>
-
-### Cloud Platforms & Services
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Google Kubernetes Engine](https://img.shields.io/badge/GKE-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### AI/ML Technologies
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Imagen](https://img.shields.io/badge/Imagen-EA4335?style=for-the-badge&logo=google&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-
-### Infrastructure & DevOps
-![Terraform](https://img.shields.io/badge/Terraform-7C4DFF?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</details>
-
-</div>
-
----
-
 <div align="center">
 
-## 📈 Learning Journey & Achievements
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohan-Todkar-2003&theme=radical" alt="Learning Journey"/>
-
-### 🏆 Achievement Timeline
-
-```mermaid
-timeline
-    title Google Cloud Professional Journey
-    
-    2025-07 : 🤖 AI Applications with Gemini
-            : 🎯 Advanced Prompt Engineering  
-            : ⚙️ MLOps for Generative AI
-    
-    2025-06 : 🏗️ Terraform Infrastructure
-            : ☸️ Kubernetes Deployments
-            : 📊 BigQuery Analytics
-    
-    2025-05 : 🗂️ Google Workspace Mastery
-            : 🤖 Dialogflow CX Development
-            : 📈 Cloud Monitoring Setup
-    
-    2025-04 : 🚀 Base Camp Completion
-            : 💻 App Development Environment
-            : 🔧 Compute Engine Basics
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Current Learning Focus
+### 🚀 **Technology Stack**
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
-<br><b>Advanced AI/ML</b>
-<br><sub>Generative AI Applications</sub>
-<br>🟢 <b>Active</b>
+<h4>☁️ Cloud Platforms</h4>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Vertex_AI-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/cloud-computing.png" width="60"/>
-<br><b>Cloud Architecture</b>
-<br><sub>Scalable Solutions Design</sub>
-<br>🟡 <b>In Progress</b>
+<h4>🤖 AI/ML Tools</h4>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/BigQuery_ML-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/security-configuration.png" width="60"/>
-<br><b>Cloud Security</b>
-<br><sub>Advanced Protection</sub>
-<br>🔵 <b>Planned</b>
+<h4>🏗️ Infrastructure</h4>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/devops.png" width="60"/>
-<br><b>DevOps Excellence</b>
-<br><sub>CI/CD Optimization</sub>
-<br>🔵 <b>Planned</b>
+<h4>💻 Development</h4>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -302,20 +401,75 @@ timeline
 
 ---
 
-<div align="center">
-
-## 🏆 Professional Recognition
+## 🏆 Achievement Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohan-Todkar-2003&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+### 🥇 **Milestone Badges**
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rohan-Todkar-2003&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+### 📊 **GitHub Activity**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Todkar-2003&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=7c3aed&line=00d2d3&point=c3d82c&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+### 📈 **Statistics**
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Rohan-Todkar-2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Todkar-2003&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
+
 </div>
 
-### 🌟 Key Achievements
-- 🥇 **50+ Google Cloud Skill Badges** across multiple specializations
-- 🚀 **AI/ML Expert** with focus on Generative AI applications  
-- ⚡ **Infrastructure Automation** specialist using Terraform & Kubernetes
-- 📊 **Data Analytics** proficiency with BigQuery and advanced SQL
-- 🏗️ **Cloud Solutions Architect** designing scalable systems
+---
+
+## 🌟 Connect & Collaborate
+
+<div align="center">
+
+### 🤝 **Let's Connect**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://rohans-portfolio-opal.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<br><b>My Portfolio</b>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://in.linkedin.com/in/rohantodkar0705">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br><b>Professional</b>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/Rohan-Todkar-2003">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<br><b>Code & Projects</b>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.cloudskillsboost.google/public_profiles/30dca49f-92b8-41d1-8a0e-ccdaacb4eb68">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<br><b>Skills Profile</b>
+</a>
+</td>
+</tr>
+</table>
+
+### 📧 **Reach Out**
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=for-the-badge&logo=handshake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Available%20for-Consulting-blue?style=for-the-badge&logo=consultant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ready%20for-New%20Opportunities-orange?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 </div>
 
@@ -323,30 +477,17 @@ timeline
 
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate
+### 🔄 **Auto-Updated Portfolio**
 
-<a href="https://rohans-portfolio-opal.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4CAF50?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="https://in.linkedin.com/in/rohantodkar0705" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Rohan-Todkar-2003" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/30dca49f-92b8-41d1-8a0e-ccdaacb4eb68" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Cloud-Skills_Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Last%20Updated-August%2028%2C%202025-success?style=for-the-badge&logo=calendar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next%20Update-Daily%20at%206AM%20UTC-info?style=for-the-badge&logo=clock&logoColor=white"/>
 
-<br><br>
+> *This portfolio is automatically synchronized with my Google Cloud Skills Boost profile*  
+> *Each badge represents hands-on experience and real-world applicable skills*
 
-### 💬 Open for Opportunities
-```
-📧 Professional Inquiries    • Cloud Architecture Projects
-🤝 Collaboration             • AI/ML Research & Development  
-💼 Career Opportunities      • Technical Leadership Roles
-🎯 Consulting Services       • GCP Implementation & Training
-```
+**⭐ If this portfolio inspired you, please give it a star!**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=100&section=footer)
 
 </div>
 
@@ -354,39 +495,8 @@ timeline
 
 <div align="center">
 
-## 📊 Repository Analytics
+**🚀 "Continuous learning is the key to staying ahead in cloud technology" 🚀**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Todkar-2003&theme=react-dark&bg_color=0d1117&color=4285f4&line=4285f4&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph"/>
-
-<br>
-
-<details>
-<summary><b>📈 Advanced Portfolio Metrics</b></summary>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohan-Todkar-2003&theme=radical" alt="Languages" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohan-Todkar-2003&theme=radical" alt="Commits" width="48%"/>
-
-<br><br>
-
-**🎯 Portfolio Last Updated:** `August 28, 2025`  
-**🔄 Auto-sync Status:** `Active - Daily Updates`  
-**📈 Next Badge Target:** `Cloud Security Specialist`  
-**🚀 Learning Streak:** `185+ days continuous`
-
-</details>
-
-</div>
-
----
-
-<div align="center">
-
-*"Transforming complex cloud challenges into elegant solutions through continuous learning and innovation"*
-
-**⭐ Star this repository if you find my Google Cloud journey inspiring!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4285f4,34a853,fbbc04,ea4335&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+*Made with ❤️ by Rohan Todkar | Powered by Google Cloud*
 
 </div>
