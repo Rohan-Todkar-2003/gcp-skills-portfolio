@@ -1,0 +1,41 @@
+{
+  "last_updated": "2025-08-28",
+  "total_badges": 50,
+  "badges": [
+    {
+      "title": "Build Real World AI Applications with Gemini and Imagen",
+      "description": "Image recognition, natural language processing, image generation using Gemini and Imagen models, deploying applications on Vertex AI",
+      "earned_date": "2025-07-22",
+      "category": "ai_ml",
+      "badge_url": "https://img.shields.io/badge/Build%20Real%20World%20AI%20Apps-Gemini%20%26%20Imagen-ff6b6b?style=flat-square&logo=google-cloud"
+    },
+    {
+      "title": "Prompt Design in Vertex AI",
+      "description": "Prompt engineering, image analysis, multimodal generative techniques, crafting effective prompts for Gemini models",
+      "earned_date": "2025-07-21",
+      "category": "ai_ml",
+      "badge_url": "https://img.shields.io/badge/Prompt%20Design-Vertex%20AI-4ecdc4?style=flat-square&logo=google-cloud"
+    },
+    {
+      "title": "Machine Learning Operations (MLOps) for Generative AI",
+      "description": "MLOps processes, deploying and managing Generative AI models, Vertex AI platform management",
+      "earned_date": "2025-07-19",
+      "category": "ai_ml",
+      "badge_url": "https://img.shields.io/badge/MLOps-Generative%20AI-45b7d1?style=flat-square&logo=google-cloud"
+    },
+    {
+      "title": "Build Infrastructure with Terraform on Google Cloud",
+      "description": "Infrastructure as Code (IaC), Terraform configurations, state management, code modularization",
+      "earned_date": "2025-06-15",
+      "category": "infrastructure",
+      "badge_url": "https://img.shields.io/badge/Terraform-Infrastructure-7f8c8d?style=flat-square&logo=terraform"
+    },
+    {
+      "title": "Deploy Kubernetes Applications on Google Cloud",
+      "description": "Docker containers, GKE clusters, kubectl management, continuous delivery practices",
+      "earned_date": "2025-06-10",
+      "category": "infrastructure",
+      "badge_url": "https://img.shields.io/badge/Kubernetes-Applications-326ce5?style=flat-square&logo=kubernetes"
+    }
+  ]
+}
