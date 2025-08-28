@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=300&section=header&text=Google%20Cloud%20Expert&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Machine%20Learning%20•%20Infrastructure%20•%20DevOps&descAlignY=51&descAlign=62)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=300&section=header&text=Google%20Cloud%20Badges&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Machine%20Learning%20•%20Infrastructure%20•%20DevOps&descAlignY=51&descAlign=62)
 
 [![Google Cloud Skills](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1a1a1a)](https://www.cloudskillsboost.google/public_profiles/30dca49f-92b8-41d1-8a0e-ccdaacb4eb68)
 [![Profile Views](https://komarev.com/ghpvc/?username=rohantodkar&color=4285f4&style=for-the-badge&label=Profile+Views)](https://github.com/Rohan-Todkar-2003)
@@ -48,7 +48,7 @@
 🏗️ Infrastructure & DevOps  ████████████████     28% 
 💾 Data & Analytics         ██████████           18%
 📱 Application Development  ████████             12%
-🗂️ Google Workspace        ████                  7%
+🗂️ Google Workspace         ████                  7%
 ```
 
 </div>
