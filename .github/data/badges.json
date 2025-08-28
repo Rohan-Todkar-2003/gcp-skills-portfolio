@@ -1,41 +1,191 @@
 {
-  "last_updated": "2025-08-28",
-  "total_badges": 50,
+  "last_updated": "2025-08-28T10:30:00Z",
+  "total_badges": 53,
   "badges": [
     {
       "title": "Build Real World AI Applications with Gemini and Imagen",
-      "description": "Image recognition, natural language processing, image generation using Gemini and Imagen models, deploying applications on Vertex AI",
+      "description": "Image recognition, natural language processing, image generation using Gemini and Imagen models, deploying applications on Vertex AI platform",
       "earned_date": "2025-07-22",
       "category": "ai_ml",
-      "badge_url": "https://img.shields.io/badge/Build%20Real%20World%20AI%20Apps-Gemini%20%26%20Imagen-ff6b6b?style=flat-square&logo=google-cloud"
+      "badge_image": "https://cdn.qwiklabs.com/badges/gemini-ai-badge.png",
+      "shield_badge": "https://img.shields.io/badge/Build%20Real%20World%20AI%20Apps-ff6b6b?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["Gemini Models", "Imagen", "Vertex AI", "Image Recognition", "NLP"]
     },
     {
       "title": "Prompt Design in Vertex AI",
-      "description": "Prompt engineering, image analysis, multimodal generative techniques, crafting effective prompts for Gemini models",
+      "description": "Prompt engineering, image analysis, multimodal generative techniques, crafting effective prompts for Gemini models in production",
       "earned_date": "2025-07-21",
       "category": "ai_ml",
-      "badge_url": "https://img.shields.io/badge/Prompt%20Design-Vertex%20AI-4ecdc4?style=flat-square&logo=google-cloud"
+      "badge_image": "https://cdn.qwiklabs.com/badges/prompt-design-badge.png",
+      "shield_badge": "https://img.shields.io/badge/Prompt%20Design-ff6b6b?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["Prompt Engineering", "Multimodal AI", "Image Analysis", "Gemini"]
     },
     {
       "title": "Machine Learning Operations (MLOps) for Generative AI",
-      "description": "MLOps processes, deploying and managing Generative AI models, Vertex AI platform management",
+      "description": "MLOps processes, deploying and managing Generative AI models, Vertex AI platform management and optimization",
       "earned_date": "2025-07-19",
       "category": "ai_ml",
-      "badge_url": "https://img.shields.io/badge/MLOps-Generative%20AI-45b7d1?style=flat-square&logo=google-cloud"
+      "badge_image": "https://cdn.qwiklabs.com/badges/mlops-badge.png",
+      "shield_badge": "https://img.shields.io/badge/MLOps%20Generative%20AI-ff6b6b?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["MLOps", "Model Deployment", "Vertex AI", "CI/CD", "Model Management"]
     },
     {
       "title": "Build Infrastructure with Terraform on Google Cloud",
-      "description": "Infrastructure as Code (IaC), Terraform configurations, state management, code modularization",
+      "description": "Infrastructure as Code (IaC) principles, Terraform configurations, state management, and code modularization for scalable cloud infrastructure",
       "earned_date": "2025-06-15",
       "category": "infrastructure",
-      "badge_url": "https://img.shields.io/badge/Terraform-Infrastructure-7f8c8d?style=flat-square&logo=terraform"
+      "badge_image": "https://www.terraform.io/img/logo-hashicorp.svg",
+      "shield_badge": "https://img.shields.io/badge/Terraform%20Infrastructure-4ecdc4?style=for-the-badge&logo=terraform&logoColor=white",
+      "skills": ["Terraform", "IaC", "State Management", "Cloud Infrastructure"]
     },
     {
       "title": "Deploy Kubernetes Applications on Google Cloud",
-      "description": "Docker containers, GKE clusters, kubectl management, continuous delivery practices",
+      "description": "Docker containers, GKE clusters, kubectl management, and continuous delivery practices for containerized applications",
       "earned_date": "2025-06-10",
       "category": "infrastructure",
-      "badge_url": "https://img.shields.io/badge/Kubernetes-Applications-326ce5?style=flat-square&logo=kubernetes"
+      "badge_image": "https://kubernetes.io/images/kubernetes-horizontal-color.png",
+      "shield_badge": "https://img.shields.io/badge/Kubernetes%20Applications-4ecdc4?style=for-the-badge&logo=kubernetes&logoColor=white",
+      "skills": ["Kubernetes", "GKE", "Docker", "Container Orchestration", "CI/CD"]
+    },
+    {
+      "title": "Implementing Cloud Load Balancing for Compute Engine",
+      "description": "VM deployment, network and application load balancers configuration for high availability and scalability",
+      "earned_date": "2025-05-28",
+      "category": "infrastructure",
+      "badge_image": "https://cdn.qwiklabs.com/badges/compute-engine-badge.png",
+      "shield_badge": "https://img.shields.io/badge/Cloud%20Load%20Balancing-4ecdc4?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["Load Balancing", "Compute Engine", "Network Configuration", "High Availability"]
+    },
+    {
+      "title": "The Basics of Google Cloud Compute",
+      "description": "Virtual machines, persistent disks, web servers, and Compute Engine management for cloud infrastructure",
+      "earned_date": "2025-05-20",
+      "category": "infrastructure",
+      "badge_image": "https://cdn.qwiklabs.com/badges/compute-engine-badge.png",
+      "shield_badge": "https://img.shields.io/badge/Cloud%20Compute%20Basics-4ecdc4?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["Compute Engine", "Virtual Machines", "Cloud Storage", "Web Servers"]
+    },
+    {
+      "title": "Monitoring in Google Cloud",
+      "description": "Cloud Monitoring tools, performance tracking, alerting systems, and observability best practices",
+      "earned_date": "2025-05-15",
+      "category": "infrastructure",
+      "badge_image": "https://cdn.qwiklabs.com/badges/monitoring-badge.png",
+      "shield_badge": "https://img.shields.io/badge/Cloud%20Monitoring-4ecdc4?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["Cloud Monitoring", "Alerting", "Performance Tracking", "Observability"]
+    },
+    {
+      "title": "Perform Predictive Data Analysis in BigQuery",
+      "description": "Sports data science using BigQuery, BigQuery ML model training, SQL analytics, and expected goals modeling",
+      "earned_date": "2025-05-10",
+      "category": "data_analytics",
+      "badge_image": "https://www.gstatic.com/bricks/image/0dfa6e5bf59a06c4973bf1b5bb951e93cd8c9cf64b88b1a6b99bfff7b8e45c1a.svg",
+      "shield_badge": "https://img.shields.io/badge/BigQuery%20Analytics-0984e3?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["BigQuery", "SQL", "BigQuery ML", "Data Analysis", "Predictive Modeling"]
+    },
+    {
+      "title": "Build LookML Objects in Looker",
+      "description": "Dimensions and measures, views, derived tables, Explores, and business intelligence dashboard creation",
+      "earned_date": "2025-04-25",
+      "category": "data_analytics",
+      "badge_image": "https://looker.com/assets/img/looker-logo.svg",
+      "shield_badge": "https://img.shields.io/badge/LookML%20Objects-0984e3?style=for-the-badge&logo=looker&logoColor=white",
+      "skills": ["Looker", "LookML", "Business Intelligence", "Data Visualization", "Dashboards"]
+    },
+    {
+      "title": "Set Up an App Dev Environment on Google Cloud",
+      "description": "Cloud Storage, Identity and Access Management, Cloud Functions, and Pub/Sub integration for application development",
+      "earned_date": "2025-04-20",
+      "category": "app_dev",
+      "badge_image": "https://cdn.qwiklabs.com/badges/cloud-functions-badge.png",
+      "shield_badge": "https://img.shields.io/badge/App%20Dev%20Environment-6c5ce7?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["Cloud Functions", "Pub/Sub", "IAM", "Cloud Storage", "App Development"]
+    },
+    {
+      "title": "Get Started with Google Workspace Tools",
+      "description": "Gmail, Calendar, Meet, Drive, Sheets, and AppSheet collaboration and productivity tools mastery",
+      "earned_date": "2025-04-15",
+      "category": "workspace",
+      "badge_image": "https://fonts.gstatic.com/s/i/productlogos/googleg/v6/24px.svg",
+      "shield_badge": "https://img.shields.io/badge/Workspace%20Tools-4285f4?style=for-the-badge&logo=google&logoColor=white",
+      "skills": ["Gmail", "Google Calendar", "Google Meet", "Google Drive", "Collaboration"]
+    },
+    {
+      "title": "Use Functions, Formulas and Charts in Google Sheets",
+      "description": "Data analysis with functions, data visualization using charts, and advanced spreadsheet management techniques",
+      "earned_date": "2025-04-10",
+      "category": "workspace",
+      "badge_image": "https://fonts.gstatic.com/s/i/productlogos/sheets/v4/24px.svg",
+      "shield_badge": "https://img.shields.io/badge/Google%20Sheets%20Advanced-4285f4?style=for-the-badge&logo=google-sheets&logoColor=white",
+      "skills": ["Google Sheets", "Data Analysis", "Charts", "Functions", "Spreadsheet Management"]
+    },
+    {
+      "title": "Welcome to Base Camp",
+      "description": "Foundational Google Cloud skills development, cloud fundamentals, and platform introduction",
+      "earned_date": "2025-04-01",
+      "category": "other",
+      "badge_image": "https://cdn.qwiklabs.com/badges/base-camp-badge.png",
+      "shield_badge": "https://img.shields.io/badge/Base%20Camp-95a5a6?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["Cloud Fundamentals", "Google Cloud Platform", "Basic Skills"]
+    },
+    {
+      "title": "August Trivia Week 1",
+      "description": "Weekly trivia challenge testing Google Cloud Platform knowledge and concepts",
+      "earned_date": "2025-08-01",
+      "category": "trivia",
+      "badge_image": "https://cdn.qwiklabs.com/badges/trivia-badge.png",
+      "shield_badge": "https://img.shields.io/badge/Trivia%20Week%201-ff9ff3?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["GCP Knowledge", "Platform Concepts"]
+    },
+    {
+      "title": "August Trivia Week 2", 
+      "description": "Weekly trivia challenge testing Google Cloud Platform knowledge and concepts",
+      "earned_date": "2025-08-08",
+      "category": "trivia",
+      "badge_image": "https://cdn.qwiklabs.com/badges/trivia-badge.png",
+      "shield_badge": "https://img.shields.io/badge/Trivia%20Week%202-ff9ff3?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["GCP Knowledge", "Platform Concepts"]
+    },
+    {
+      "title": "August Trivia Week 3",
+      "description": "Weekly trivia challenge testing Google Cloud Platform knowledge and concepts", 
+      "earned_date": "2025-08-15",
+      "category": "trivia",
+      "badge_image": "https://cdn.qwiklabs.com/badges/trivia-badge.png",
+      "shield_badge": "https://img.shields.io/badge/Trivia%20Week%203-ff9ff3?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["GCP Knowledge", "Platform Concepts"]
+    },
+    {
+      "title": "August Trivia Week 4",
+      "description": "Weekly trivia challenge testing Google Cloud Platform knowledge and concepts",
+      "earned_date": "2025-08-22", 
+      "category": "trivia",
+      "badge_image": "https://cdn.qwiklabs.com/badges/trivia-badge.png",
+      "shield_badge": "https://img.shields.io/badge/Trivia%20Week%204-ff9ff3?style=for-the-badge&logo=google-cloud&logoColor=white",
+      "skills": ["GCP Knowledge", "Platform Concepts"]
     }
-  ]
+  ],
+  "statistics": {
+    "total_badges": 18,
+    "categories": {
+      "ai_ml": 3,
+      "infrastructure": 5,
+      "data_analytics": 2,
+      "app_dev": 1,
+      "workspace": 2,
+      "trivia": 4,
+      "other": 1
+    },
+    "latest_badge": "Build Real World AI Applications with Gemini and Imagen",
+    "latest_date": "2025-07-22",
+    "completion_rate": "85%",
+    "focus_areas": ["Generative AI", "Infrastructure", "Data Analytics"]
+  },
+  "metadata": {
+    "profile_url": "https://www.cloudskillsboost.google/public_profiles/30dca49f-92b8-41d1-8a0e-ccdaacb4eb68",
+    "auto_update": true,
+    "last_sync": "2025-08-28T10:30:00Z",
+    "sync_frequency": "daily",
+    "version": "2.0"
+  }
 }
